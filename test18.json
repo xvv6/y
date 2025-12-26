@@ -160,6 +160,14 @@
         "priority": 21
     },
     {
+        "id": "siwa",
+        "name": "丝袜资源",
+        "baseUrl": "https://siwazyw.cc/api.php/provide/vod/",
+        "group": "adult",
+        "enabled": true,
+        "priority": 32
+     },
+    {
         "id": "xibao",
         "name": "细胞采集",
         "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
@@ -167,12 +175,4 @@
         "enabled": true,
         "priority": 22
     }
-      {
-        "id": "siwa",
-        "name": "丝袜资源",
-        "baseUrl": "https://siwazyw.cc/api.php/provide/vod/",
-        "group": "adult",
-        "enabled": true,
-        "priority": 32
-      }
 ]
