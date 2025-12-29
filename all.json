@@ -8,6 +8,14 @@
         "priority": 1
       },
       {
+        "id": "douban",
+        "name": "豆瓣资源",
+        "baseUrl": "https://dbzy.tv/api.php/provide/vod/",
+        "group": "adult",
+        "enabled": true,
+        "priority": 1
+      },
+      {
         "id": "liangzi",
         "name": "量子資源",
         "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
