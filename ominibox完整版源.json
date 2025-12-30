@@ -1,0 +1,1238 @@
+{
+  "sites": [
+    {
+      "id": "ae1712eb-c765-4fd9-a7b7-645a8f23574c",
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T17:17:34.045208625+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 30
+    },
+    {
+      "id": "14ac6162-e75f-452b-84c2-e1465f259f3a",
+      "key": "电影天堂资源",
+      "name": "电影天堂资源",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T20:57:34.802599235+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 4
+    },
+    {
+      "id": "4a011900-6279-4915-8a34-f58a10150840",
+      "key": "最大",
+      "name": "最大",
+      "api": "https://api.zuidapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T17:02:46.753438681+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 2
+    },
+    {
+      "id": "5c7dd23a-136c-4cbd-95cc-af7728bcda6d",
+      "key": "魔爪",
+      "name": "魔爪",
+      "api": "https://mozhuazy.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T17:03:13.098455562+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 1
+    },
+
+    {
+      "id": "01876f72-5df6-47c1-b6a2-cf88ed4e599c",
+      "key": "modu",
+      "name": "🎬魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.432660898+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "73d2f712-acb4-46e4-96fd-f407b37f9756",
+      "key": "�百万资源",
+      "name": "🔞百万资源",
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.432451438+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e2f717b5-90eb-42c6-989e-1aae91552203",
+      "key": "�红牛资源",
+      "name": "🎬红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.410774559+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "9a62190b-cbbe-4ef5-9e91-e1a35731bd82",
+      "key": "�光速资源",
+      "name": "🎬光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.407774428+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "c4e86c38-626a-4872-b43b-7ffb8466de1f",
+      "key": "�U酷88",
+      "name": "🎬U酷88",
+      "api": "https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.406025615+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "54d8e851-5b67-43b0-83ef-ce29a90520d8",
+      "key": "uku",
+      "name": "🎬U酷资源",
+      "api": "https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.405489459+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "a26fe139-4f41-40d3-8c71-19c034b8cd3f",
+      "key": "p2100",
+      "name": "🎬飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.402622906+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "8efa1bdd-225c-4901-8aa6-690f4e0865fc",
+      "key": "�金鹰资源",
+      "name": "🎬金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.398912358+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "f2b83dcd-d21f-4280-811b-bdd4a50e9d6d",
+      "key": "�金鹰点播",
+      "name": "🎬金鹰点播",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.395185566+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "baa1e1ac-f619-41ab-b45f-1b3740236285",
+      "key": "�虎牙资源",
+      "name": "🎬虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.392813593+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "9f78a743-d622-41ff-9405-6b50d3eb440b",
+      "key": "xiaomaomi",
+      "name": "🎬小猫咪",
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.391578693+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "c84097e9-e37d-4f2b-aebc-d99c28ec9e10",
+      "key": "subocaiji",
+      "name": "🎬速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.390732611+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "289ef659-3122-4a07-b9f6-949884ff746d",
+      "key": "�豪华资源",
+      "name": "🎬豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.38563417+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "45b3c956-ee3a-494a-897a-417d24be2c80",
+      "key": "�旺旺资源",
+      "name": "🎬旺旺资源",
+      "api": "https://api.wwzy.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.381326307+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "2de9ea33-8d0a-4e39-aa66-f6cd0a6505a2",
+      "key": "�旺旺短剧",
+      "name": "🎬旺旺短剧",
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.380306048+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "88f4de2d-b5d8-4ef8-a267-273dbb869daf",
+      "key": "�快车资源",
+      "name": "🎬快车资源",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.375775164+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "3fe43361-6032-4551-8765-ac689669b05d",
+      "key": "�新浪资源",
+      "name": "🎬新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.375369175+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "b7b7aeaf-5a49-472d-906e-415853cb2543",
+      "key": "�索尼资源",
+      "name": "🎬索尼资源",
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.374607616+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "1ec118b6-5f70-4cb3-9f1d-b741257f00f4",
+      "key": "wujincom",
+      "name": "🎬无尽资源1",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.368194573+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "4e3e65d5-aa04-4911-bb8f-33c6a77da70b",
+      "key": "�最大点播",
+      "name": "🎬最大点播",
+      "api": "https://zuidazy.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.365226447+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "ec4ba1e9-161a-4e38-96c6-19b77a341d96",
+      "key": "yinghua",
+      "name": "🎬樱花资源",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.364410701+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "98cf0b54-ee58-4fea-91b3-28f6915d2ac6",
+      "key": "wujin",
+      "name": "🎬无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.362815074+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "b1c1f42a-1c05-4abb-a227-8ce297b1dee2",
+      "key": "zuid",
+      "name": "🎬最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.362019589+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "84019431-182d-416a-a23e-c6ad55ad371e",
+      "key": "�暴风资源",
+      "name": "🎬暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.360635029+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "e62cbfe5-0100-416a-8744-b3ce53a3a4b9",
+      "key": "�魔爪资源",
+      "name": "🎬魔爪资源",
+      "api": "https://dl.hafrey.dpdns.org/?url=https://mozhuazy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.346661485+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "c022fe55-54cd-4a29-91bb-c69f0449ac95",
+      "key": "�非凡影视",
+      "name": "🎬非凡影视",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.345905048+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "babddc7f-16cb-467c-8a66-369831240cdd",
+      "key": "�非凡资源",
+      "name": "🎬非凡资源",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.34253982+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "cf0905d5-9bc2-4037-913b-83ab15a9333b",
+      "key": "�魔都资源",
+      "name": "🎬魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.342342222+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "95cd84d4-8493-4bc5-ada5-e9d93a96a576",
+      "key": "jisu",
+      "name": "🎬极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.341331607+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "8a557118-882e-42d0-9ac2-adf90dfc77fe",
+      "key": "�卧龙资源1",
+      "name": "🎬卧龙资源1",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.339993225+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "0cc322a9-faea-465f-99ec-726b3c7995e8",
+      "key": "�360资源",
+      "name": "🎬360资源",
+      "api": "https://360zy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.331005771+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "206e2024-594c-4e70-a3db-f22df18c7625",
+      "key": "ruyi",
+      "name": "🎬如意资源",
+      "api": "https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.328700189+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "f7752be9-7e84-4f21-9282-72a4f087c4c0",
+      "key": "lzcaiji",
+      "name": "🎬量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.324734502+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "ad5d6dc2-461c-42bd-907b-69a2bd98abe4",
+      "key": "�猫眼资源",
+      "name": "🎬猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.321550046+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "8ced9949-b6fb-438c-bd9a-85e848db67ef",
+      "key": "�电影天堂",
+      "name": "🎬电影天堂",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.319961295+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "f7a8702e-24b1-444c-9014-60bdca1d04f8",
+      "key": "lzi",
+      "name": "🎬量子资源",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.319637782+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "ac7dfe00-525f-49a1-a656-b4b94b9e661d",
+      "key": "1080y",
+      "name": "🎬优质资源",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.318860236+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "52d5ffe1-3a80-4e0e-b18a-e8dc13f78283",
+      "key": "ikun",
+      "name": "🎬iKun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.31699258+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "cf672373-2112-4e58-86b1-2347235d5f39",
+      "key": "wolong",
+      "name": "🎬卧龙资源",
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.302935678+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "351f222f-0284-4e82-9c00-4048a1552c26",
+      "key": "�茅台资源",
+      "name": "🎬茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.294683227+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "dc8e5482-3841-4cb3-8c29-91df7071be17",
+      "key": "�CK资源",
+      "name": "🎬CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.278813216+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "9bb6f473-692f-4f08-9d41-6e1577658789",
+      "key": "�天涯影视",
+      "name": "🎬天涯影视",
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.268237273+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "17a3cf3e-d675-4670-bc82-12a2a4bf3871",
+      "key": "caijidb",
+      "name": "🎬豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.267790812+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "ff06c482-8835-4203-99b0-424f41aa2816",
+      "key": "�爱奇艺",
+      "name": "🎬爱奇艺",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-05T08:52:12.251271124+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "a910124b-1b47-4550-b14a-47569ad52350",
+      "key": "茅台资源",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T21:04:02.233796663+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "a8045fd2-3dcb-46aa-b497-a7427111b05c",
+      "key": "魔都资源",
+      "name": "魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T21:03:36.254320732+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "2a1c6f73-963c-405e-b7da-158bece4f5a8",
+      "key": "小猫咪资源",
+      "name": "小猫咪资源",
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T20:59:25.401318468+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "c9824796-952a-4dfd-8dbc-d5fd15b229b4",
+      "key": "极速资源",
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T20:58:58.350846833+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "61066a40-f4fb-4adb-a81a-9cab80f45ef4",
+      "key": "360资源",
+      "name": "360资源",
+      "api": "https://360zy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T20:58:27.303820538+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "c80d01aa-a13f-46d3-aca7-903690a1f5a5",
+      "key": "无尽",
+      "name": "无尽",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T17:00:07.686815063+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "6be4ed35-c571-4d4b-848a-73c286cdd343",
+      "key": "百度云",
+      "name": "百度云",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T16:59:00.521518537+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": 0
+    },
+    {
+      "id": "b08b4edc-5a9a-4d47-98df-8c99cbbba902",
+      "key": "金鹰",
+      "name": "金鹰",
+      "api": "https://jyzyapi.com/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-03T17:18:10.55976803+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [],
+      "priority": -1
+    },
+    {
+      "id": "a13285f6-8532-4985-9f89-22dfcc585f9b",
+      "key": "�丝袜资源",
+      "name": "🔞丝袜资源",
+      "api": "https://siwazyw.tv/api.php/provide/vod/at/json",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.521144033+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "9ad3460f-a9d1-42f1-b650-ca0878229a63",
+      "key": "�滴滴资源",
+      "name": "🔞滴滴资源",
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.514950039+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "424159c8-7152-429e-879f-de61fee62ec8",
+      "key": "�豆豆资源",
+      "name": "🔞豆豆资源",
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.507744071+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "81eddb86-ca6f-4c1f-824c-c86fe1e40a37",
+      "key": "�最色资源",
+      "name": "🔞最色资源",
+      "api": "https://api.zuiseapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.506816532+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "afc68151-825f-4e76-853f-f5f685c6a4fd",
+      "key": "�大地资源",
+      "name": "🔞大地资源",
+      "api": "https://dadiapi.com/feifei2",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.50454612+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "c0b2dd6b-6bfa-43c6-81a2-5a2dcb6ca5fa",
+      "key": "�幸资源",
+      "name": "🔞幸资源",
+      "api": "https://xzybb2.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.50226938+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "4194dc2c-e9c9-47e1-b34d-36319b344dab",
+      "key": "�辣椒资源",
+      "name": "🔞辣椒资源",
+      "api": "https://apilj.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.499617478+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "44de16be-30f4-4d84-a993-b7a957655438",
+      "key": "�鲨鱼资源",
+      "name": "🔞鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.498210011+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "a93e2c98-9047-4db4-8b40-7251ab58f9c6",
+      "key": "�色猫资源",
+      "name": "🔞色猫资源",
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.494086174+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e642b93b-5744-4d4f-bf90-766c7938b161",
+      "key": "�森林资源",
+      "name": "🔞森林资源",
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.490359522+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "a91b89d7-9be7-4f5e-a768-ead6a4f03534",
+      "key": "�奶香资源",
+      "name": "🔞奶香资源",
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.487635058+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "776bfee3-97d9-42e8-860b-3caef3bd37c2",
+      "key": "msnii",
+      "name": "🔞美少女",
+      "api": "https://www.msnii.com/api/json.php",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.486344882+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "17470b37-a4bc-43b1-beba-ec83d0a9bbb9",
+      "key": "�奥斯卡",
+      "name": "🔞奥斯卡",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.48509354+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e16c2e7a-e8a2-4e9f-bd66-db7614f36e81",
+      "key": "�乐播资源",
+      "name": "🔞乐播资源",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.481636791+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "b5904fdf-4825-4bff-944f-fbbbc8dfc50b",
+      "key": "�杏吧资源",
+      "name": "🔞杏吧资源",
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.481409204+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "103d105d-7c8d-4fc1-a238-eeb1dc18b4e0",
+      "key": "�色南国",
+      "name": "🔞色南国",
+      "api": "https://api.sexnguon.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.478555204+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "0eeaa7f4-b773-4a9a-8210-163560da2073",
+      "key": "�jkun资源",
+      "name": "🔞jkun资源",
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.47246609+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "3c9d1981-7efa-4250-b349-cca09b02d6c1",
+      "key": "�大奶子",
+      "name": "🔞大奶子",
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.471404473+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "1f5ea1e6-9f67-44cb-9788-495f6618d301",
+      "key": "�黄色仓库",
+      "name": "🔞黄色仓库",
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.470168613+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e646cfcd-2f93-4084-a446-f70efe1452c1",
+      "key": "�细胞资源",
+      "name": "🔞细胞资源",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.468527478+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "596ec7e7-b158-4e17-b67a-1e8945e45889",
+      "key": ".pgxdy",
+      "name": "🔞黄AVZY",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.463869305+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "13594bef-a321-4242-9f36-6b2cdfd4625a",
+      "key": "�桃花资源",
+      "name": "🔞桃花资源",
+      "api": "https://thzy1.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.460953204+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "3356608e-09fc-4f37-83d8-59c3881f3232",
+      "key": "�小鸡资源",
+      "name": "🔞小鸡资源",
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.460754951+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "7ff9590e-3c25-41d2-ad5f-5e57ca9c57c6",
+      "key": "�优优资源",
+      "name": "🔞优优资源",
+      "api": "https://www.yyzywcj.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.456146918+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "219bf1bc-c93b-4be9-8e30-85be4a4920d8",
+      "key": "jingpinx",
+      "name": "🔞精品资源",
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.453550382+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "19108f65-4df6-4b01-8d51-1e09e2a7653f",
+      "key": "�老色逼",
+      "name": "🔞老色逼",
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.453191045+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e0cba2be-3ed2-4781-93c8-ddf56d7e7870",
+      "key": ".kxgav",
+      "name": "🔞白嫖资源",
+      "api": "https://www.kxgav.com/api/json.php",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.449288548+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "947b1747-9841-48ac-8f90-4f7f110fa833",
+      "key": "�番号资源",
+      "name": "🔞番号资源",
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.4467182+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "bcb774a2-f0ec-4e4a-92c8-c420d8490d0c",
+      "key": "�玉兔资源",
+      "name": "🔞玉兔资源",
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.444146129+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "9622b152-3020-4e20-bee9-d6596f6fbe77",
+      "key": "/91md.me",
+      "name": "🔞91麻豆",
+      "api": "https://91md.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.43613213+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "bfb17aa9-fa41-4a8d-81f9-fb44277bdce9",
+      "key": "�155资源",
+      "name": "🔞155资源",
+      "api": "https://155api.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.434204315+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "85b72792-e88c-4f01-a2a8-bda9b23077d6",
+      "key": "�AIvin",
+      "name": "🔞AIvin",
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.433875514+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "30d62019-63b9-4a4a-977f-b6970487079e",
+      "key": "�souavZY",
+      "name": "🔞souavZY",
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-05T08:52:12.432938877+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "adult"
+      ],
+      "priority": 0
+    }
+
+  ],
+  "exportTime": "2025-10-06T13:59:15.629Z",
+  "total": 89,
+  "filters": {
+    "search": null,
+    "tags": null,
+    "status": null
+  }
+}
